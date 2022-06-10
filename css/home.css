@@ -10,13 +10,13 @@
 .btn-primary{
     background: rgba(255, 100, 51, 1)!important;
     color: white;
+    border: none;
 }
 .text-secondary{
     color: rgba(102, 28, 231, 1)!important;
 }
 
 #hero{
-    height: 100vh;
     width: 100%;
 }
 .hero-image{
@@ -69,4 +69,7 @@
 }
 .sec6-txt{
     width: 60%;
+}
+#sec7{
+    background: rgba(226, 230, 233, 1);
 }
