@@ -10,6 +10,7 @@
 .btn-primary{
     background: rgba(255, 100, 51, 1)!important;
     color: white;
+    border: none;
 }
 .text-secondary{
     color: rgba(102, 28, 231, 1)!important;
