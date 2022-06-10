@@ -16,7 +16,6 @@
 }
 
 #hero{
-    height: 100vh;
     width: 100%;
 }
 .hero-image{
@@ -69,4 +68,7 @@
 }
 .sec6-txt{
     width: 60%;
+}
+#sec7{
+    background: rgba(226, 230, 233, 1);
 }
